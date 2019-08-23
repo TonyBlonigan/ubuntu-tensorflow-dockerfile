@@ -9,6 +9,3 @@ Contains Dockerfile & example usage scripts. Dockerfile based off of https://git
     - Launches interactive bash session in docker container
 4. docker_build_keras.sh
     - Simple script that builds container from Dockerfile
-5. docker-compose.yml
-    - Aborted docker-compose file I decided not to use
-
